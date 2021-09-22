@@ -1,0 +1,9 @@
+package test123;
+
+import org.testng.annotations.Test;
+
+public class TestNG_xpath {
+  @Test
+  public void f() {
+  }
+}

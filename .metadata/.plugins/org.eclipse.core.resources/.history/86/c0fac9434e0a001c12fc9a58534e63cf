@@ -1,0 +1,9 @@
+package src.main.java.test123;
+
+import org.testng.annotations.Test;
+
+public class TestNG_Test1 {
+  @Test
+  public void f() {
+  }
+}
